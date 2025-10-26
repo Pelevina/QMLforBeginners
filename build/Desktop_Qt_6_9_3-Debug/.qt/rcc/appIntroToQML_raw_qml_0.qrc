@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/IntroToQML/">
+    <file alias="Main.qml">/home/bug_beast/Downloads/QML-for-Beginners-Challenges-Intro-to-QML/StartingProject/Main.qml</file>
+    <file alias="IDPhoto.png">/home/bug_beast/Downloads/QML-for-Beginners-Challenges-Intro-to-QML/StartingProject/IDPhoto.png</file>
+  </qresource>
+</RCC>
+

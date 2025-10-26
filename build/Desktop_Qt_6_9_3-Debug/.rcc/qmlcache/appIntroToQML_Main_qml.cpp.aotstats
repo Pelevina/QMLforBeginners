@@ -1,0 +1,628 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 12,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 12,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 152,
+                        "errorMessage": "",
+                        "functionName": "photo",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 18,
+                        "durationMicroseconds": 141,
+                        "errorMessage": "",
+                        "functionName": "webSite",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 25,
+                        "durationMicroseconds": 194,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant",
+                        "functionName": "titleTextColor",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 27,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant",
+                        "functionName": "headingTextColor",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 24,
+                        "durationMicroseconds": 179,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant",
+                        "functionName": "bodyTextColor",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 22,
+                        "durationMicroseconds": 186,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant",
+                        "functionName": "windowColor",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 26,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant",
+                        "functionName": "cardBorderColor",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 20,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant",
+                        "functionName": "cardColor",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 27,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant",
+                        "functionName": "imageBorderColor",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 21,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant",
+                        "functionName": "imageColor",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 29,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant",
+                        "functionName": "buttonDetailsColor",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 26,
+                        "durationMicroseconds": 184,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant",
+                        "functionName": "buttonBaseColor",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 174,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant",
+                        "functionName": "buttonBorderColor",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 33,
+                        "durationMicroseconds": 174,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant",
+                        "functionName": "buttonTextDetailsColor",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 30,
+                        "durationMicroseconds": 174,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant",
+                        "functionName": "buttonTextBaseColor",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 20,
+                        "durationMicroseconds": 173,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant",
+                        "functionName": "linkColor",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 16,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name colorTheme",
+                        "functionName": "color",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 101,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 16,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name colorTheme",
+                        "functionName": "color",
+                        "line": 104
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 101
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 16,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "Cannot access value for name colorTheme",
+                        "functionName": "color",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 16,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name root",
+                        "functionName": "color",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 17,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot access value for name root",
+                        "functionName": "height",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 16,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "Cannot access value for name root",
+                        "functionName": "width",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 112,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 119
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 23,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot access value for name colorTheme",
+                        "functionName": "color",
+                        "line": 120
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 85,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 20,
+                        "durationMicroseconds": 88,
+                        "errorMessage": "Cannot access value for name root",
+                        "functionName": "color",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 129
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 24,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name root",
+                        "functionName": "onClicked",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 87,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 21,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 103,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 163
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 164
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "",
+                        "functionName": "source",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 178
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 85,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 177
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 183
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 85,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 184
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 190
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 192
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 191
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 197
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 199
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 198
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 204
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 206
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 205
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 211
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 213
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 212
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 218
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 220
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 221
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 219
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot load property text from (component in /home/bug_beast/Downloads/QML-for-Beginners-Challenges-Intro-to-QML/StartingProject/Main.qml)::parent with type QQuickItem.",
+                        "functionName": "onClicked",
+                        "line": 225
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 224
+                    }
+                ],
+                "filePath": "/home/bug_beast/Downloads/QML-for-Beginners-Challenges-Intro-to-QML/StartingProject/Main.qml"
+            }
+        ],
+        "moduleId": "IntroToQML(appIntroToQML)"
+    }
+]
